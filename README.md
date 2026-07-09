@@ -1,7 +1,6 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 3px solid #00F5FF; color: #FF00E5;"> 🛠️ Tech Stacks </h2>
     <br>
-
     <h3 style="color: #00F5FF;">🎨 Frontend</h3>
     <div style="text-align: left;"> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -9,21 +8,18 @@
         <br/>
     </div>
     <br>
-
     <h3 style="color: #00F5FF;">⚙️ Backend</h3>
     <div style="text-align: left;"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
         <br/>
     </div>
     <br>
-
     <h3 style="color: #00F5FF;">🗄️ Database</h3>
     <div style="text-align: left;"> 
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <br/>
     </div>
     <br>
-
     <h3 style="color: #00F5FF;">🔧 Tools</h3>
     <div style="text-align: left;"> 
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">

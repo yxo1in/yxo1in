@@ -14,8 +14,11 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=yxo1in&bg_color=00000000&title_color=000000&text_color=000000" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxo1in&layout=compact&bg_color=00000000&title_color=000000&text_color=000000" /> 
+        <!-- 1. 메인 스탯 카드 (안정적인 대체 서버 주소) -->
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yxo1in&bg_color=00000000&title_color=000000&text_color=000000" /> 
+        
+        <!-- 2. 사용 언어 카드 (안정적인 대체 서버 주소) -->
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yxo1in&layout=compact&bg_color=00000000&title_color=000000&text_color=000000" /> 
     </div> 
 </div>
     

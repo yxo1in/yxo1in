@@ -1,4 +1,3 @@
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 3px solid #00F5FF; color: #FF00E5;"> 🛠️ Tech Stacks </h2>
     <br><div style="text-align: left;">

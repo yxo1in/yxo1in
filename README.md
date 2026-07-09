@@ -17,7 +17,8 @@
         <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yxo1in&layout=compact&bg_color=FFF0F5&title_color=6A4C93&text_color=4A4E69&border_color=E0AAFF&border_radius=15" />  -->
     </div> 
 </div>
-    
+
+<h2 style="border-bottom: 2px solid #E0AAFF; color: #6A4C93;">Git Animal</h2>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yxo1in&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yxo1in?v=1"

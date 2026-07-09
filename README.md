@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <h3 style="color: #2c3e50; margin-bottom: 2px;">🗄️ Database</h3>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<h3 style="color: #2c3e50; margin-bottom: 2px;">🔧 Tools</h3>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 <h2 style="border-bottom: 2px solid #6366F1; color: #1E293B;"> 🏅 Stats </h2>
 <table>

@@ -17,8 +17,8 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yxo1in&custom_title=yxo1in's%20Github%20Stat&theme=default" /> 
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yxo1in&layout=compact&theme=default" /> 
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=yxo1in&show_icons=true&theme=default" /> 
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yxo1in&layout=compact&theme=default" /> 
     </div> 
 </div>
     

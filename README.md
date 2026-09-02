@@ -14,17 +14,12 @@
 <h3 style="color: #2c3e50; margin-bottom: 2px;">🗄️ Database</h3>
       <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-<h2 style="border-bottom: 2px solid #6366F1; color: #1E293B;"> 🏅 Stats </h2>
-<table>
-<tr>
-<td valign="top" width="55%">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yxo1in&bg_color=F8FAFC&title_color=1E293B&text_color=475569&icon_color=6366F1&border_color=6366F1&border_radius=15" width="100%"/>
-</td>
-<td valign="top" width="45%">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yxo1in&layout=compact&bg_color=F8FAFC&title_color=1E293B&text_color=475569&border_color=6366F1&border_radius=15" width="100%"/>
-</td>
-</tr>
-</table>
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yxo1in&custom_title=yxo1in's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxo1in&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
 
 <h3>🐾 Git Animal</h3>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yxo1in&utm_content=farm">

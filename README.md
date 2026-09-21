@@ -18,6 +18,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
         <img src="https://github-readme-stats-fast.vercel.app/api?username=yxo1in&show_icons=true&count_private=true&theme=default" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yxo1in&layout=compact&theme=default" />
     </div> 
 </div>
     

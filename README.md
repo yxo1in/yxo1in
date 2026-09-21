@@ -7,8 +7,6 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     </div>
-    
-    </div>
 </div>
     
 <h3 style="color: #2c3e50; margin-bottom: 2px;">⚙️ Backend</h3>

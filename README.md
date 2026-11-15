@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yxo1in&theme=tokyonight)](https://git.io/streak-stats)
+
 <h2 style="border-bottom: 2px solid #d8dee4; color: #2c3e50;"> 🛠️ Tech Stacks </h2>
 <div align="center">
   <img src="https://skills.syvixor.com/api/icons?i=expo" />
@@ -12,7 +14,6 @@
         <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=yxo1in&layout=compact&theme=default" height="165" />
     </div> 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=본인아이디&theme=tokyonight)](https://git.io/streak-stats)
     
 <h3>🐾 Git Animal</h3>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yxo1in&utm_content=farm">

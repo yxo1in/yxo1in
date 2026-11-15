@@ -1,4 +1,7 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yxo1in&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=yxo1in&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 
 <h2 style="border-bottom: 2px solid #d8dee4; color: #2c3e50;"> 🛠️ Tech Stacks </h2>
 <div align="center">

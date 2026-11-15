@@ -1,5 +1,6 @@
 <h2 style="border-bottom: 2px solid #d8dee4; color: #2c3e50;"> 🛠️ Tech Stacks </h2>
 <div align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=expo" />
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs&theme=dark&perline=8" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark&perline=8" /><br/>
 </div>

@@ -11,8 +11,8 @@
         <img src="https://github-readme-stats.zcy.dev/api?username=yxo1in&show_icons=true&theme=default" height="165" />
         <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=yxo1in&layout=compact&theme=default" height="165" />
     </div> 
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=yxo1in&theme=tokyonight)](https://git.io/streak-stats)
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yxo1in&theme=tokyonight)](https://git.io/streak-stats)
     
 <h3>🐾 Git Animal</h3>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yxo1in&utm_content=farm">
